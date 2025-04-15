@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SkyTrack - Boost Your Productivity</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="hero-content">
+      <h1>SkyTrack</h1>
+      <p>Your all-in-one solution to track tasks and boost productivity.</p>
+      <a href="#" class="cta-button">Get Started</a>
+    </div>
+  </header>
+
+  <!-- Features Section -->
+  <section class="features">
+    <div class="feature">
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" alt="Task Management Icon" />
+      <h3>Task Management</h3>
+      <p>Organize your day with easy-to-use task lists and reminders.</p>
+    </div>
+    <div class="feature">
+      <img src="https://cdn-icons-png.flaticon.com/512/1034/1034155.png" alt="Analytics Icon" />
+      <h3>Productivity Analytics</h3>
+      <p>Visualize how you spend your time and optimize your workflow.</p>
+    </div>
+    <div class="feature">
+      <img src="https://cdn-icons-png.flaticon.com/512/747/747545.png" alt="Sync Icon" />
+      <h3>Cloud Sync</h3>
+      <p>Access your tasks from any device, anytime, anywhere.</p>
+    </div>
+  </section>
+
+  <!-- Footer Section -->
+  <footer class="footer">
+    <p>Contact: support@skytrackapp.com | (123) 456-7890</p>
+    <p>&copy; 2025 SkyTrack. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
